@@ -11,3 +11,8 @@ The project will have an initial phase in which a methodology for designing effe
 Furthermore, a series of educational escape rooms will be created, conducted, and evaluated, which will be used not only to teach course-specific topics to students, but also to develop soft skills. These escape rooms will be used as pilot experiences to validate the proposed methodology and the developed technological solution in a wide range of higher education settings, including face-to-face and distance settings, as well as engineering and humanities courses. Lastly, multiplier events will be held in order to extend the reach and impact of the project to a wider audience involving educational institutions across all levels of education.
 
 Check out the website: https://iglue.dit.upm.es/
+
+<p>&nbsp;</p>  
+The IGLUE project has been co-funded by the European Union under the Erasmus+ Programme (Project reference 2024-1-ES01-KA220-HED-000256356).
+<br/>
+<img src="https://github.com/user-attachments/assets/9760cf7f-a06b-4509-8281-4174c235fc43" width="300">
